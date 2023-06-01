@@ -18,6 +18,7 @@ import com.student.repository.StudentRepository;
 import com.student.service.StudentService;
 
 @Controller
+
 public class StudentController {
 
 	@Autowired
